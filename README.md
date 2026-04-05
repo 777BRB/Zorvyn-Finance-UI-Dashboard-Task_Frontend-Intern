@@ -1,16 +1,135 @@
-# React + Vite
+# 💰 Zorvyn Finance UI Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Finance Dashboard UI** built using **React + Vite**, designed to visualize financial data, manage transactions, and demonstrate role-based UI behavior — all with a clean and intuitive user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tech Stack
 
-## React Compiler
+* **Vite** – Fast build tool for modern web apps
+* **React JS (JavaScript)** – Component-based UI development
+* **Tailwind CSS** – Utility-first styling for responsive design
+* **React Icons** – Icon library for UI enhancement
+* **Context API** – Global state management
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Core Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Dashboard Overview
+
+A comprehensive dashboard providing a snapshot of financial health:
+
+* **Summary Cards**
+
+  * Total Balance
+  * Total Income
+  * Total Expenses
+
+* **Time-Based Visualization**
+
+  * Balance trends over time (e.g., line chart)
+
+* **Categorical Visualization**
+
+  * Spending breakdown by category (e.g., pie/bar chart)
+
+---
+
+### 2. Transactions Section
+
+Manage and view all financial transactions:
+
+* **Transaction Details**
+
+  * Date
+  * Amount
+  * Category
+  * Type (Income / Expense)
+
+* **Functionalities**
+
+  * Search transactions
+  * Filter by category/type
+  * Sort by date or amount
+
+---
+
+### 3. Basic Role-Based UI (Frontend Simulation)
+
+Demonstrates role-based access behavior:
+
+* **Viewer Role**
+
+  * Can only view data
+
+* **Admin Role**
+
+  * Can create/read/update/delete transactions
+
+* **Login Role Switcher**
+
+  * Easily toggle roles using a dropdown or switch
+
+---
+
+### 📊 4. Insights Section
+
+Provides quick and meaningful insights:
+
+* Highest spending category
+* Monthly comparison of income vs expenses
+* Additional observations from financial data
+
+---
+
+### 🧠 5. State Management
+
+Efficient global state handling using Context API:
+
+* Transactions data
+* Filters and search state
+* Selected user role
+
+---
+
+### 🎯 6. UI / UX Highlights
+
+* lean, modern, and intuitive design
+* Fully responsive across all devices
+---
+
+## Another Features : 
+* Data Persistence (Local Storage)
+* Context API Integration for Global State Management
+* Animations & Transitions
+* Export Data (CSV / JSON)
+* Advanced Filtering & Grouping
+
+
+## 🛠️ Installation & Setup
+
+1. Clone the repository:
+
+```bash
+git clone <your-repo-url>
+cd <project-folder>
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Run the development server:
+
+```bash
+npm run dev
+```
+
+4. Open in browser:
+
+```bash
+http://localhost:5173
+```
