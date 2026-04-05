@@ -69,11 +69,11 @@ Demonstrates role-based access behavior:
 
 * **Login Role Switcher**
 
-  * Easily toggle roles using a dropdown or switch
+  * Easily toggle roles using radio buttons
 
 ---
 
-### 📊 4. Insights Section
+### 4. Insights Section
 
 Provides quick and meaningful insights:
 
@@ -83,7 +83,7 @@ Provides quick and meaningful insights:
 
 ---
 
-### 🧠 5. State Management
+### 5. State Management
 
 Efficient global state handling using Context API:
 
