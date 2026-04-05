@@ -93,7 +93,7 @@ Efficient global state handling using Context API:
 
 ---
 
-### 🎯 6. UI / UX Highlights
+### 6. UI / UX Highlights
 
 * lean, modern, and intuitive design
 * Fully responsive across all devices
