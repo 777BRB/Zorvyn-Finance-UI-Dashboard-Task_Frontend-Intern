@@ -1,10 +1,10 @@
-# 💰 Zorvyn Finance UI Dashboard
+# Zorvyn Finance UI Dashboard
 
 A modern and responsive **Finance Dashboard UI** built using **React + Vite**, designed to visualize financial data, manage transactions, and demonstrate role-based UI behavior — all with a clean and intuitive user experience.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 * **Vite** – Fast build tool for modern web apps
 * **React JS (JavaScript)** – Component-based UI development
@@ -14,7 +14,7 @@ A modern and responsive **Finance Dashboard UI** built using **React + Vite**, d
 
 ---
 
-## 📌 Core Features
+## Core Features
 
 ### 1. Dashboard Overview
 
