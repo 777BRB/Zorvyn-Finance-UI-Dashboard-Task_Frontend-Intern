@@ -112,8 +112,8 @@ Efficient global state handling using Context API:
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/777BRB/Zorvyn-Finance-UI-Dashboard-Task_Frontend-Intern.git
+cd <keep the project-folder here>
 ```
 
 2. Install dependencies:
