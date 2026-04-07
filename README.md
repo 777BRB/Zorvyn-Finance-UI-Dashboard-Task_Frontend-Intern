@@ -7,8 +7,8 @@ A modern and responsive **Finance Dashboard UI** built using **React + Vite**, d
 ## Tech Stack
 
 * **Vite** – Fast build tool for modern web apps
-* **React JS (JavaScript)** – Component-based UI development
-* **Tailwind CSS** – Utility-first styling for responsive design
+* **React JS(v19) + JavaScript** – Component-based UI development
+* **Tailwind CSS(v4)** – Utility-first styling for responsive design
 * **React Icons** – Icon library for UI enhancement
 * **React Hooks & Context API** – State management
 
